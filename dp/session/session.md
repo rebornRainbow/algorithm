@@ -74,10 +74,6 @@ $file2[0 \cdots j]$
 
 子问题：
 用子字串，m_change(i,j):表示把$file1[0 \cdots i]$变得和$file2[0 \cdots j]$一样所花的最小的代价。
-m_change(i,j) = 
-如果file[i] 和 file[j]相同
-  m_change(i-1,j-1);
-如果
 
 
 #### p3
