@@ -1,4 +1,4 @@
-Target = p2.cc
+Target = p3.cc
 
 all:$(Target)
 	g++ -g -std=c++11 $(Target) -o main
